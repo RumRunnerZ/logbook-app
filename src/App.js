@@ -33,7 +33,7 @@ export default function App() {
       await worker.initialize('eng');
       //const { data: { text } } = await worker.recognize('https://tesseract.projectnaptha.com/img/eng_bw.png');
       //const { data: { text } } = await worker.recognize('http://boomingwebdesign.nl/eng.png');
-      const { data: { text } } = await worker.recognize(require('./img/log3.jpg'));
+      const { data: { text } } = await worker.recognize(require('./img/log4.jpg'));
 
       console.log(text);
       setOcr(text);
@@ -99,7 +99,7 @@ export default function App() {
         <h1>Hoi hoi!</h1>
         <p>{ocr}</p>
         <p/>
-        <img src={require('./img/log3.jpg')} alt='' style={{width: 500, height: 100}} />
+        <img src={require('./img/log4.jpg')} alt='' style={{width: 500, height: 100}} />
         <p/>
         <button type="button" onClick={doIt()}>DoIt!</button>
         <p/>

@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/logbook-app/static/css/main.a740bb3a.chunk.css",
-    "main.js": "/logbook-app/static/js/main.7f11a9dd.chunk.js",
-    "main.js.map": "/logbook-app/static/js/main.7f11a9dd.chunk.js.map",
+    "main.js": "/logbook-app/static/js/main.f785b1c7.chunk.js",
+    "main.js.map": "/logbook-app/static/js/main.f785b1c7.chunk.js.map",
     "runtime-main.js": "/logbook-app/static/js/runtime-main.53142228.js",
     "runtime-main.js.map": "/logbook-app/static/js/runtime-main.53142228.js.map",
     "static/js/2.e146f183.chunk.js": "/logbook-app/static/js/2.e146f183.chunk.js",
     "static/js/2.e146f183.chunk.js.map": "/logbook-app/static/js/2.e146f183.chunk.js.map",
     "index.html": "/logbook-app/index.html",
-    "precache-manifest.73e0ea3318c5e60760bdeff2d400721f.js": "/logbook-app/precache-manifest.73e0ea3318c5e60760bdeff2d400721f.js",
+    "precache-manifest.f9aa764a853d2655e371b81758471e0a.js": "/logbook-app/precache-manifest.f9aa764a853d2655e371b81758471e0a.js",
     "service-worker.js": "/logbook-app/service-worker.js",
     "static/css/main.a740bb3a.chunk.css.map": "/logbook-app/static/css/main.a740bb3a.chunk.css.map",
     "static/js/2.e146f183.chunk.js.LICENSE.txt": "/logbook-app/static/js/2.e146f183.chunk.js.LICENSE.txt",
-    "static/media/log3.jpg": "/logbook-app/static/media/log3.09fd633d.jpg"
+    "static/media/log4.jpg": "/logbook-app/static/media/log4.0b01dbda.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.53142228.js",
     "static/js/2.e146f183.chunk.js",
     "static/css/main.a740bb3a.chunk.css",
-    "static/js/main.7f11a9dd.chunk.js"
+    "static/js/main.f785b1c7.chunk.js"
   ]
 }

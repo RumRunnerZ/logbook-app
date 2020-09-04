@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd8d244658324d2eb3fc1b73b8ac439f",
+    "revision": "ee0cd8f1f8ef905f55df130890bf013b",
     "url": "/logbook-app/index.html"
   },
   {
-    "revision": "6e45f86f2e174d1e67b9",
+    "revision": "bfd46ee259c8bef52865",
     "url": "/logbook-app/static/css/main.a740bb3a.chunk.css"
   },
   {
@@ -16,15 +16,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/logbook-app/static/js/2.e146f183.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6e45f86f2e174d1e67b9",
-    "url": "/logbook-app/static/js/main.7f11a9dd.chunk.js"
+    "revision": "bfd46ee259c8bef52865",
+    "url": "/logbook-app/static/js/main.f785b1c7.chunk.js"
   },
   {
     "revision": "01a467105d3eb298a7fb",
     "url": "/logbook-app/static/js/runtime-main.53142228.js"
   },
   {
-    "revision": "09fd633d5553febca8fef0a4d993c760",
-    "url": "/logbook-app/static/media/log3.09fd633d.jpg"
+    "revision": "0b01dbda97f1dbfc5a870965c24f7762",
+    "url": "/logbook-app/static/media/log4.0b01dbda.jpg"
   }
 ]);
